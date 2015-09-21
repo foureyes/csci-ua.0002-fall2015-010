@@ -35,8 +35,6 @@ Assignments
 ###Slides
 * [About Class #7](classes/07/meta.html)
 * [Review](classes/07/review.html)
-* [String Formatting](classes/07/string-formatting.html)
-* [Built-In Modules](classes/07/modules.html)
 * [While Loops](classes/07/while.html)
 
 ### Readings
