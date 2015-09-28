@@ -8,24 +8,16 @@ title: While Loops
 </section>
 
 <section markdown="block">
-## Write a Program to Print out the numbers 1 through 9
+## Write a Program to Print out the numbers 1 through 5
 </section>
 
 <section markdown="block">
 ### Motivation for Loops
 
-A program to count from 1 to 9:
+A program to count from 1 to 5
 
 {% highlight python %}
 n, delta = 1, 1
-print(n)
-n = n + delta
-print(n)
-n = n + delta
-print(n)
-n = n + delta
-print(n)
-n = n + delta
 print(n)
 n = n + delta
 print(n)
@@ -47,7 +39,7 @@ __YES! ...using loops__
 
 {% highlight python %}
 n = 1
-end = 9
+end = 5
 delta = 1
 
 while n <= end:
@@ -168,7 +160,7 @@ __What does this print out? &rarr;__
 {% highlight python %}
 keep_on_going = True
 while keep_on_going:
-	print("I'm going!)"
+	print("I'm going!")
 {% endhighlight %}
 
 <div class="incremental">
@@ -245,6 +237,17 @@ To change the outcome of your conditional:
 * examples:
 	* using operators to change a variable in your condition
 	* using input to change a variable in your condition
+</section>
+
+<section markdown="block">
+### Figuring Out How to Write a While Loop
+
+Before you write your while loop, __you should probably first determine__...
+
+1. if your code needs a while loop _at all_ (is there repeated code?)
+2. if there's data that affects whether or not the loop will continue running
+3. what condition will make your loop repeat
+4. how your loop will end
 </section>
 
 
