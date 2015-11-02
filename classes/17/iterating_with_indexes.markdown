@@ -149,6 +149,8 @@ __What's the output of the pop() version of the solution? &rarr;__
 </div>
 </section>
 
+{% comment %}
 <section markdown="block">
 ## [Nested Loops, Nested Lists](nested_loops.html)
 </section>
+{% endcomment %}
