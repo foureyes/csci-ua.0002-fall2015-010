@@ -1,27 +1,37 @@
 <article class="due" markdown="block">
 #### Due Today
 
-(no quiz)
-{% comment %}
-* Homework
-{% endcomment %}
+* Homework #06
+* Module #08
 
 </article>
 
 <article class="slides" markdown="block">
 #### Slides
 
-* [Warm-Up for List Homework](classes/18/lists_warmup.html)
+All about lists!
 
+The basics ([check out the module too of course]({{ site.module8 }})):
+
+* [Lists Overview](classes/17/lists.html)
+* [List Methods](classes/17/list_methods.html)
+
+For Today's class:
+
+* [Review](classes/17/lists_review.html)
+* [Iterating with Indexes](classes/17/iterating_with_indexes.html)
+* [List Comprehensions](classes/17/list_comprehensions.html)
+* [Exercises](classes/17/list_exercises.html)
+* [Mutability](classes/17/mutability.html)
+* [List, Strings and Random](classes/17/lists_strings_random.html)
+
+{% comment %}
+* [Nested Lists, Nested Loops](classes/17/nested_loops.html)
+{% endcomment %}
 </article>
 
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
-
-* [vet.py](homework/hw07/vet.py)
-* [pawesome_pet_vet.py](homework/hw07/pawsome_pet_vet.py)
-* [balance.py](homework/hw07/balance.py)
-* [rps.py](homework/hw07/rps.py)
 
 {% comment %}
 Readings
@@ -34,40 +44,37 @@ Assignments
 {% endcomment %}
 </article>
 {% comment %}
-<a name="class18"></a>
+<a name="class17"></a>
 
 ###Slides
-* [About Class #18](classes/18/meta.html)
-* [Strings Review](classes/18/strings_review.html)
-* Or check out the [review from the last class](classes/17/strings_built_in_functions.html) and [Ceasar Cipher](classes/17/strings_built_in_functions.html) 
-* [Lists](classes/18/lists.html)
+* [About Class #17](classes/17/meta.html)
+* [Scope Recap](classes/17/review_scope.html)
+* [Strings So Far (Review)](classes/17/review.html)
+* [Strings as Objects, String Methods](classes/17/strings_as_objects.html)
+* [Built-in String Functions](classes/17/strings_built_in_functions.html)
 
+<!--
+* (Optional) [Lists Intro](classes/17/slides/lists_intro.html)
+-->
+	
 
 ### Readings
 __{{ site.bookq }}__
 
 * Chapter 8 on More About Strings
-* Chapter 7 on Lists
 
 __{{ site.bookt }}__
 
-* [{{ site.bookt }} - Strings](http://openbookproject.net/thinkcs/python/english3e/strings.html)
-* [{{site.bookt}} - Lists](http://openbookproject.net/thinkcs/python/english3e/lists.html) 
+* [{{ site.bookt }} - Chapter 8 - Strings](http://openbookproject.net/thinkcs/python/english3e/strings.html)
 
-<a name="homework8"></a>
+### Selected Homework Solutions
 
-### Homework #8
+For homework #5 (nested loops):
 
+* [slashes.py](resources/code/hw5/slashes.py)
+* [another version of slashes.py](resources/code/hw5/slashes_2.py)
+* [snake_eyes.py](resources/code/hw5/snake_eyes.py)
+* [stars.py](resources/code/hw5/stars.py)
+* [lots_of_stars.py](resources/code/hw5/lots_of_stars.py)
 
-* Due __Apr 11th__ at 11PM
-* Submit all files __via NYU Classes__
-* Description of each assignment is in a comment in each file
-
-1. [questions_ch_7.py](homework/hw08/questions_ch_7.py)
-2. [string_practice.py](homework/hw08/string_practice.py)
-3. [get_first_word](homework/hw08/get_first_word.py)
-4. [pig_latin.py](homework/hw08/pig_latin.py)
-5. [sort_words.py](homework/hw08/sort_words.py)
-6. [is_palindrome.py](homework/hw08/is_palindrome.py)
-7. [multiples_of_seven.py](homework/hw08/multiples_of_seven.py)
 {% endcomment %}

@@ -11,12 +11,11 @@ Slides
 * [Strings So Far (Review)](classes/16/review.html)
 * [Strings as Objects, String Methods](classes/16/strings_as_objects.html)
 * [Built-in String Functions](classes/16/strings_built_in_functions.html)
-* [Lists](classes/16/lists.html)
 
 Midterm Solutions
 
-* [Midterm Solutions Version 1](resources/handouts/midterm_1/midterm_1_section_010_v1_solutions.pdf)
-* [Midterm Solutions Version 2](resources/handouts/midterm_1/midterm_1_section_010_v2_solutions.pdf)
+* [Midterm Solutions Version 1](resources/handouts/midterm_1/midterm_1_section_008_v1_solutions.pdf)
+* [Midterm Solutions Version 2](resources/handouts/midterm_1/midterm_1_section_008_v2_solutions.pdf)
 </article>
 
 <article class="assignments" markdown="block">
