@@ -12,7 +12,7 @@ doing the following...
 
 Download the located at: 
 
-http://foureyes.github.io/csci-ua.0002-fall2015-008/homework/hw10/stats-clean.txt
+http://foureyes.github.io/csci-ua.0002-fall2015-010/homework/hw09/stats-clean.txt
 
 Use File --> save as ... to save in the same directory as your Python program.
 
